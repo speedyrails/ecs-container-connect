@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ECS_CLUSTER_NAME="Production"
+ECS_CLUSTER_NAME="Staging"
 
 
 
